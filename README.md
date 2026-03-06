@@ -1,3 +1,13 @@
+## Note
+
+While working on this project, I noticed that the available documentation for deploying Zammad with Docker was either incomplete, outdated, or difficult to follow for beginners.  
+To better understand the setup and create a clearer step-by-step process, I decided to document the installation and configuration myself.
+
+This repository therefore serves as a practical and simplified guide for running **Zammad with Docker Compose**, including the commands and explanations needed to reproduce the setup.
+
+
+
+
 # Zammad Helpdesk Deployment with Docker
 
 ## Overview
