@@ -1,3 +1,6 @@
+# Zammad Docker Installation Guide
+### Deploy Zammad Helpdesk with Docker Compose
+
 ## Note
 
 While working on this project, I noticed that the available documentation for deploying Zammad with Docker was either incomplete, outdated, or difficult to follow for beginners.  
@@ -270,3 +273,12 @@ If you want, I can also show you how to make your README **look much more profes
 * setup sections like a real open-source project
 
 It will make your repository look **like a professional DevOps project**.
+
+
+zammad
+docker
+docker-compose
+helpdesk
+ticket-system
+devops
+self-hosted
